@@ -35,3 +35,12 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+
+
+
+## You can’t connect the dots looking forward. You can only connect them looking backwards, so you have to trust that the dots will somehow connect in your future.              -Steve Jobs
+
+   Hello! I am currently working at Pegatron, a place electronic manufacturing industry, as region and headquarter planner, managing spare parts demand forecasting and business operation for service centers and customers globally.
+
+   During my time in Pega, I served across various roles in supply chain and cross-functional 
