@@ -46,4 +46,4 @@ To learn how to install and use this theme check out the [Setup Guide](http://ta
    During my time in Pega, I served across various roles in supply chain and cross-functional 
 
 
-   Now starting my career, I am eager to learn the most I can to enrich my knowledge and skills. Feel free to browse the projects section to check out what I have worked on. shoot me an email<tingliu0807@gmail.com> or connect on linkedIn if you would like to talk. 
+   Now starting my career, I am eager to learn the most I can to enrich my knowledge and skills. Feel free to browse the projects section to check out what I have worked on. shoot me an [email](tingliu0807@gmail.com/"YT email") or connect on linkedIn if you would like to talk. 
